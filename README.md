@@ -1,9 +1,7 @@
 # CowMonitoringSystem
 This is a comprehensive AI/ML based project which was done as a part of Aivancity Summer School Program 2025.
 
-# 🐄 Cow Calving Ease Prediction (Agriculture Sector)
-
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting the **Calving Ease Score (CES)** of cows using behavioral data. CES indicates how easy or difficult the calving (birthing) process was for a cow, scored on a scale from 1 (very easy) to 5 (very difficult):
 
@@ -17,7 +15,7 @@ Early identification of calving difficulty can improve animal welfare, reduce po
 
 ---
 
-## 🧠 Objective
+## Objective
 
 To build a machine learning classification model that can predict the CES score based on behavioral features such as:
 - Lying time
@@ -30,18 +28,18 @@ To build a machine learning classification model that can predict the CES score 
 
 ---
 
-## 🧪 Technical Tasks
+## Technical Tasks
 
-- ✅ Build a Python-based machine learning pipeline for classification.
-- ✅ Predict the CES score ranging from 1 to 5.
-- ✅ Implement and compare algorithms including:
+- Build a Python-based machine learning pipeline for classification.
+- Predict the CES score ranging from 1 to 5.
+- Implement and compare algorithms including:
   - Logistic Regression
   - Random Forest
   - XGBoost
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - `cowmonitoringsystem.csv`  
   Provided via course Blackboard.
@@ -50,7 +48,7 @@ This dataset contains cow activity data recorded over a period, which is used to
 
 ---
 
-## ⚙️ Features and Engineering
+## Features and Engineering
 
 - Label encoding for categorical columns.
 - Imputation of missing numeric values.
@@ -62,7 +60,7 @@ This dataset contains cow activity data recorded over a period, which is used to
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy
 - Cross-validation scores
@@ -71,25 +69,25 @@ This dataset contains cow activity data recorded over a period, which is used to
 
 ---
 
-## 🧭 Ethical Inquiry
+## Ethical Inquiry
 
 This project also explores **AI ethics in agriculture**, including:
 
-### 🔍 Bias
+### Bias
 > Can the algorithm fairly detect all CES levels without underrepresenting certain scores?
 
-### 👩‍🌾 Farmer/Cow Interactions
+### Farmer/Cow Interactions
 > Will widespread use of such predictions alter how farmers monitor or handle their livestock?
 
-### 🏛️ Societal Implications
+### Societal Implications
 > How could automated CES prediction change perceptions of farming, labor, and care?
 
-### 🐮 Animal Welfare
+### Animal Welfare
 > Could reliance on prediction systems compromise or enhance animal welfare?
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
@@ -97,6 +95,6 @@ This project also explores **AI ethics in agriculture**, including:
    cd cow-calving-ease-prediction
 
 ## Contributers
-1. K V Shashank Pai 
-2. Suyash Gupta
-3. Vishal Sriram
+1. K V Shashank Pai - https://github.com/maverickk-ux
+2. Suyash Gupta - https://github.com/SuyashGupta-10
+3. Vishal Sriram - https://github.com/K-VishalSriram
