@@ -96,7 +96,7 @@ This project also explores **AI ethics in agriculture**, including:
    git clone https://github.com/your-username/cow-calving-ease-prediction.git
    cd cow-calving-ease-prediction
 
-## Contributera
-1. K V Shashank Pai
+## Contributers
+1. K V Shashank Pai 
 2. Suyash Gupta
 3. Vishal Sriram
