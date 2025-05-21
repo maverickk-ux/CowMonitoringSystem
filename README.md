@@ -42,7 +42,6 @@ To build a machine learning classification model that can predict the CES score 
 ## Dataset
 
 - `cowmonitoringsystem.csv`  
-  Provided via course Blackboard.
 
 This dataset contains cow activity data recorded over a period, which is used to train and evaluate the prediction models.
 
